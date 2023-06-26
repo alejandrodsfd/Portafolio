@@ -22,8 +22,8 @@
   --hue: 162;
   --first-color: hsl(var(--hue), 100%, 40%);
   --first-color-alt: hsl(var(--hue), 56%, 32%);
-  --title-color: hsl(228, 8%, 95%);
-  --text-color: hsl(228, 8%, 65%);
+  --title-color: rgb(241, 242, 243);
+  --text-color: rgb(159, 161, 173);
   --body-color: hsl(228, 15%, 20%);
   --container-color: hsl(228, 15%, 15%);
 
